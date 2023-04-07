@@ -1,0 +1,2 @@
+# testkru
+practice automation testing
